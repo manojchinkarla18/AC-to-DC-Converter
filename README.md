@@ -56,34 +56,6 @@ The project demonstrates the complete PCB design workflow, including schematic c
 9. Gerber File Generation
 
 ---
-
-## Repository Structure
-
-```
-12V-AC-to-DC-Converter/
-├── Schematic/
-├── PCB/
-├── Gerbers/
-├── Images/
-├── BOM/
-└── README.md
-```
-
----
-
-## Screenshots
-
-### Schematic
-*(Add schematic image here)*
-
-### PCB Layout
-*(Add PCB layout image here)*
-
-### 3D View
-*(Add 3D PCB view here)*
-
----
-
 ## Learning Outcomes
 
 This project helped in understanding:
